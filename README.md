@@ -45,6 +45,6 @@ You can now execute this in Google Colab or a local Jupyter notebook to test and
 
 
 
-Best model accuracy?
+
 
 
